@@ -1,1 +1,2 @@
 # odin-recipes
+This webpage is my first project for the Odin Project Fundamentals course. It is comprised of basic HTML structures. This project has Italian food recipes and instructions on how to make them by using headers, lists, links, and paragraphs. 
